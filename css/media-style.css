@@ -1,0 +1,60 @@
+@media screen and (max-width:1200px) {
+    #blog .blog_item .blog_type {
+        top: 194px;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+    #carousel .lead {
+        padding: 0 5rem;
+    }
+
+    #blog .blog_item .blog_type {
+        top: 141px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    #carousel .lead {
+        padding: 0;
+    }
+
+    #blog .blog_item .blog_type {
+        top: 160px;
+    }
+}
+
+@media screen and (max-width: 567px) {
+
+    #blog .blog_item .blog_type {
+        top: 320px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+    #blog .blog_item .blog_type {
+        top: 310px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    #blog .blog_item .blog_type {
+        top: 268px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #blog .blog_item .blog_type {
+        top: 250px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    #contact form button {
+        width: 90%;
+    }
+}
